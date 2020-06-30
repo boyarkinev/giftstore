@@ -1,0 +1,40 @@
+@font-face {
+	src: url(./Gilroy-Light.woff);
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 200;
+}
+
+@font-face {
+	src: url(./Gilroy-Regular.woff);
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	src: url(./Gilroy-Medium.woff);
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 500;
+}
+
+@font-face {
+	src: url(./Gilroy-Bold.woff);
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	src: url(./Gilroy-SemiBold.woff);
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 900;
+}
+
+@font-face {
+	src: url(./HomemadeApple-Regular.woff);
+	font-family: 'Homemade Apple';
+	font-weight: normal;
+}
